@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Me gusta mantenerme en constante aprendizaje!<br>🔭 Actualmente me encuentro en la búsqueda de mi primer empleo IT!<br>📫 Puedes contactarme por medio de matarazzojuampa@gmail.com<br>⚡Siempre trato de generar un buen ambiente, y me gusta mucho la organización a la hora de trabajar en grupo<br>💬 Pregúntame sobre Web Development, JavaScript<br><br>
+🌱 Me gusta mantenerme en constante aprendizaje!<br>🔭 Actualmente me encuentro en la búsqueda Empleo !<br>📫 Puedes contactarme por medio de matarazzojuampa@gmail.com<br>⚡Siempre trato de generar un buen ambiente, y me gusta mucho la organización a la hora de trabajar en grupo<br>💬 Pregúntame sobre Web Development, JavaScript<br><br>
 
 
 ## 🌐 Socials:
